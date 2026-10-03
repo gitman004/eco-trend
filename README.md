@@ -2,7 +2,7 @@
 
 Pipeline de données de bout en bout : collecte de l'historique météo horaire de 20 grandes villes françaises via l'API Open-Meteo, stockage distribué sur un cluster Hadoop déployé à la main sur Google Cloud, entrepôt Hive optimisé, et tableau de bord Apache Superset.
 
-Projet universitaire de Master 1 Informatique et Big Data (Université Paris 8).
+Projet universitaire de Master 1 Informatique et Big Data.
 
 ![Tableau de bord Superset](docs/dashboard.png)
 
